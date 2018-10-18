@@ -1,0 +1,3 @@
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/bin/google-chrome" name\="Chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8000/myAPP/menu.html|*|http\://localhost\:8000/|*|http\://localhost\:8000/docs/appdev/processes.html|*|http\://localhost\:8000/docs/appdev/sample/|*|http\://localhost\:8000/docs/appdev/index.html|*|http\://localhost\:8000/docs/appdev/introduction.html|*|https\://jcp.org/aboutJava/communityprocess/mrel/jsr245/index2.html|*|http\://localhost\:8000/docs/introduction.html|*|http\://localhost\:8000/docs/|*|http\://localhost\:8000/myAPP/CartographieWeb.html|*|

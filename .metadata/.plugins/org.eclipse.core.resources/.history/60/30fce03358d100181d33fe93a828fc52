@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<p>hello my name is GBO ULRICH</p><br>
+
+
+	<section class="row header-creation ">
+       <div class="col-sm-12 col-md-7">
+				 <div class="header-search-creation">
+               <h1>Vous souhaitez créer votre entreprise ?</h1><br>
+               <h2> Accomplissez toutes vos formalités de constitution avec Legafrik !<br/> Vous ne savez pas quelle société choisir? <a ui-sref="app.comparatif">Comparez les structures</a> ou appelez-nous au <a>(+225) 07 59 35 95</a> </h2>
+
+               <section>
+
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-left">
+					<div class="bloc" ui-sref="app.creation-sarl-uni">
+						<p class="forme"> Créer votre SARL Unipersonnelle </p></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-right">
+					<div class="bloc" ui-sref="app.creation-sarl">
+						<p class="forme">Créer votre SARL </p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-left">
+					<div class="bloc" ui-sref="app.creation-sas-uni">
+							<p class="row forme"> Créer votre SAS Unipersonnelle</p></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-right">
+					<div class="bloc" ui-sref="app.creation-sas-pluri">
+							<p class="row forme"> Créer votre SAS </p></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-left">
+					<div class="bloc" ui-sref="app.SuccursaleOhada">
+							<p class="forme"> Créer votre Succursale</p></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-right	">
+
+				<!-- 	<div class="bloc" ui-sref="app.document-indisponible({nomDoc: 'Entreprise Individuelle'})">	-->
+							<div class="bloc" ui-sref="app.EntrIndiv">
+
+							<p class="forme">Creer votre Entreprise individuelle</p></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-left	">
+					<div class="bloc" ui-sref="app.entreprenant">
+							<p class="forme"> Entreprenant</p></div>
+				</div>
+			</div>
+
+
+			<div class="row">
+				<div class="col-md-7 col-sm-12 col-xs-12 pull-right	">
+				<!-- 	<div class="bloc" ui-sref="app.document-indisponible({nomDoc: 'Entreprise Individuelle'})">	-->
+							<div class="bloc" ui-sref="app.domiciliation">
+							<p class="forme">Se Domicilier</p></div>
+				</div>
+			</div>
+
+			<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A RAJOUTER PAR LA SUITE !!!!!!!!!!!!!!!!!!!!!!!!
+			<div class="row">
+				<div class="col-md-7 pull-right">
+					<div class="bloc" ui-sref="app.sas">
+							<p class="row forme"> Monter votre assocation </p></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7 pull-right">
+					<div class="bloc" ui-sref="app.sas">
+							<p class="row forme"> Déposer une marque</p></div>
+				</div>
+			</div>
+		-->
+
+
+		</div>
+	</div>
+
+	</section>
+
+<section class=" row end-body">
+	<h3>  Créer votre entreprise des maintenant !  Comment ça marche ? </h3>
+	<div class="col-xs-12 col-md-4">
+		<p class="row forme chiffre">1</p>
+		<p class="row forme">Choisissez votre structure juridique</p>
+	</div>
+	<div class="col-xs-12 col-md-4">
+		<p class="row forme chiffre">2</p>
+		<p class="row forme">Repondez à un questionnaire. </br> Notre logiciel crée un document personnalisé </br>en fonction de vos réponses</p>
+	</div>
+	<div class="col-xs-12 col-md-4">
+		<p class="row forme chiffre">3</p>
+		<p class="row forme">Legafrik gère pour vous <br>toutes les formalités de création de votre entreprise</p>
+	</div>
+
+
+</section>
+
+</body>
+</html>
